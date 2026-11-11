@@ -19,7 +19,6 @@ Each case was scanned twice with each agent/model configuration. The common prom
 Review the specified contract for design bugs or vulnerabilities. Do not use any skills or MCP.
 ```
 
-
 The results below use these definitions:
 
 - **Found**: the scan identified the target case.
